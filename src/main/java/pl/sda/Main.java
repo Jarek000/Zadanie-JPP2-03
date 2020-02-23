@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public  static  void  bdf () {
-        System . out . println ( "bdf" );
-    }
+        System.out.println ("bdf");}
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Wpisz ciąg: ");
@@ -16,5 +15,8 @@ public class Main {
 
         }
         System.out.print("\n");
+        bdf();
     }
-}
+
+    }
+
